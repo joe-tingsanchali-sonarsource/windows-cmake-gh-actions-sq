@@ -33,7 +33,7 @@ You can take a look at the link:sonar-project.properties[sonar-project.propertie
 
 = Windows\CMake
 
-A build of the https://github.com/sonarsource-cfamily-examples/code[code repository] on Windows platform using CMake build system.
+A build of the https://github.com/sonarsource-cfamily-examples/code[code repository] on the Windows platform using the CMake build system.
 
 To build the code run:
 ----
